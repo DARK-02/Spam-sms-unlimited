@@ -1,6 +1,6 @@
 <div align="center">
 
-# ● Spam Call ID ●
+# ● Spam Sms Unlimited ●
 </div>
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="300" />
@@ -17,7 +17,7 @@
  
 </details>
  
-Spam Call Open-Source Spesial 4k Subs:v
+Spam Sms Unlimited Open-Source Spesial 4k Subs:v
 
 ## Install
 
