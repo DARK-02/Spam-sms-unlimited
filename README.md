@@ -26,7 +26,7 @@ $ apt update -y && apt upgrade -y
 $ apt install python -y
 $ pip3 install requests
 $ apt install git -y
-$ git clone https://github.com/DARK-02/Spam-caller.git
+$ git clone https://github.com/DARK-02/Spam-sms-unlimited.git
 ```
 ## Running
 
